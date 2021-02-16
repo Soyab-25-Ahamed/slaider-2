@@ -4,8 +4,8 @@ ul.bjqs{position:relative; list-style:none;padding:0;margin:0;overflow:hidden; d
 li.bjqs-slide{position:absolute; display:none;}
 ul.bjqs-controls{list-style:none;margin:0;padding:0;z-index:9999;}
 ul.bjqs-controls.v-centered li a{position:absolute; width:42px; height:55px; text-indent:-999999px;}
-ul.bjqs-controls.v-centered li.bjqs-next a{right:0; background:url(images/next.png) no-repeat;}
-ul.bjqs-controls.v-centered li.bjqs-prev a{left:0; background:url(images/pre.png) no-repeat;}
+ul.bjqs-controls.v-centered li.bjqs-next a{right:0; background:url(img/next.png) no-repeat;}
+ul.bjqs-controls.v-centered li.bjqs-prev a{left:0; background:url(img/pre.png) no-repeat;}
 ol.bjqs-markers{list-style: none; padding: 0; margin: 0; width:100%; position:absolute; z-index:500; bottom:0;}
 ol.bjqs-markers.h-centered{text-align: center;}
 ol.bjqs-markers li{display:inline;}
